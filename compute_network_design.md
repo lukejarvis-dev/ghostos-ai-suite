@@ -1,0 +1,1 @@
+# GhostGrid Compute Network Design

@@ -1,0 +1,1 @@
+# GhostOS Bootstrap Overview
