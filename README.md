@@ -59,3 +59,13 @@ Let this serve as proof of ownership, creativity, and vision.
 
 For partnerships, licensing, or validation:  
 **Luke Jarvis – ghostops.contact@protonmail.com**
+---
+
+### License & Usage
+
+GhostOS and all associated systems are © 2024 Luke Jarvis.
+
+You may use this suite for non-commercial, educational, or personal purposes.
+
+**Commercial usage, enterprise deployment, AI tool integration, or derivative works require a license.**  
+Please contact: ghostops.contact@protonmail.com
